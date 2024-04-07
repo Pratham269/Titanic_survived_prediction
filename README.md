@@ -4,4 +4,5 @@ Database link - https://www.kaggle.com/datasets/yasserh/titanic-dataset
 Prerequirments - 
 1) import pandas
 2) import numpy
-3) 
+3) import matplotlib
+4) import seaborn
